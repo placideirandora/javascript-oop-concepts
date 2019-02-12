@@ -1,1 +1,1 @@
-"Implementation of Object-Oriented Programming concepts in JavaScript" 
+Implementation of Object-Oriented Programming concepts in JavaScript
